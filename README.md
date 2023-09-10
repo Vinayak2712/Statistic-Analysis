@@ -52,7 +52,7 @@ ANOVA is a powerful statistical technique for comparing means of more than two g
 
 The K-Squared test, also known as the Kolmogorov-Smirnov test, helps you assess whether a dataset follows a specific distribution. It's particularly useful when you want to check if your data fits a normal distribution.
 
-[Learn more about the K-Squared Test](k_squared_test.md)
+[Learn more about the K-Squared Test](https://github.com/Vinayak2712/Statistic-Analysis/blob/main/Hypothesis-test%20%20--%20(Normality%20test%20with%20Shapiro%20Wilk%20and%20K%5E2%20Test%20)%20%20(1).ipynb)
 
 ## Shapiro-Wilk Test
 
