@@ -1,22 +1,9 @@
 # Welcome to my GitHub Repository - Statistical Testing Playground 📊
 
-![Statistical Testing Playground](https://github.com/your_username/your_repository/raw/main/images/statistics.jpg)
 
 ## Introduction
 
 Welcome to my Statistical Testing Playground! In this repository, you'll find a collection of resources and code examples related to various statistical tests. Whether you're a data scientist, researcher, or just someone curious about the world of statistics, you've come to the right place.
-
-## Table of Contents
-
-1. [Hypothesis Testing](#hypothesis-testing)
-2. [t-Test](#t-test)
-3. [z-Test](#z-test)
-4. [Chi-Square (χ²) Test](#chi-square-test)
-5. [Analysis of Variance (ANOVA)](#anova-test)
-6. [K-Squared (K²) Test](#k-squared-test)
-7. [Shapiro-Wilk Test](#shapiro-wilk-test)
-8. [Pearson Correlation Test](#pearson-correlation-test)
-9. [Spearman Rank Correlation Test](#spearman-rank-correlation-test)
 
 ## Hypothesis Testing
 
@@ -75,6 +62,9 @@ Sometimes, relationships between variables aren't linear. That's where the Spear
 ## Conclusion
 
 I hope you find this repository helpful and informative as you explore the world of statistical testing. Feel free to browse the individual test sections for more detailed information, code examples, and practical applications.
+
+
+
 
 If you have any questions, suggestions, or would like to contribute to this repository, please don't hesitate to reach out. Happy testing!
 
